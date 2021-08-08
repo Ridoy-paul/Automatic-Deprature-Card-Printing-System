@@ -1,0 +1,29 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+FontName SolaimanLipi
+FontSubfamily Normal
+UniqueID SolaimanKarim: SolaimanLipi: 2003
+FullName SolaimanLipi
+Version 1.0 Thu June 13 17:00:00 2005
+PostScriptName SolaimanLipi
+Manufacturer Solaiman Karim
+Designer Solaiman Karim
+FontDesignerURL http://www.omicronlab.com or http://www.altruists.org
+PreferredFamily SolaimanLipi
+PreferredSubfamily Normal
+CompatibleFullName SolaimanLipi
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 10
+UnderlinePosition -65
+FontHeightOffset 0
+Ascender 863
+Descender -293
+FontBBox -553 -434 1116 863
+StartCharMetrics 581
+U 2510 ; WX 357 ; N Khanda_Ta ; G 155
+EndCharMetrics
+EndFontMetrics

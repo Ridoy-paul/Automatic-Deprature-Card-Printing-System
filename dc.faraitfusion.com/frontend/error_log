@@ -1,0 +1,112 @@
+[24-Sep-2020 00:02:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Sep-2020 00:02:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/visit-status.php:48
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/visit-status.php on line 48
+[24-Sep-2020 00:02:22 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Sep-2020 00:02:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/visit-status.php:48
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/visit-status.php on line 48
+[24-Sep-2020 06:18:04 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Sep-2020 06:18:04 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ensol/app.en-sol.net/backend/config.php on line 4
+[28-Sep-2020 01:58:49 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 01:58:49 America/Chicago] PHP Warning:  require_once(backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 01:58:49 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'backend/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:00:42 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:00:42 America/Chicago] PHP Warning:  require_once(backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:00:42 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'backend/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:01:03 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:01:03 America/Chicago] PHP Warning:  require_once(backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:01:03 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'backend/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:01:38 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:01:40 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:05:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:05:33 America/Chicago] PHP Warning:  require_once(backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:05:33 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'backend/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:05:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:05:36 America/Chicago] PHP Warning:  require_once(backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:05:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'backend/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:06:41 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:06:41 America/Chicago] PHP Warning:  include(backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:06:41 America/Chicago] PHP Warning:  include(backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:06:41 America/Chicago] PHP Warning:  include(): Failed opening 'backend/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:06:41 America/Chicago] PHP Warning:  include(backend/functions.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:06:41 America/Chicago] PHP Warning:  include(backend/functions.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:06:41 America/Chicago] PHP Warning:  include(): Failed opening 'backend/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:06:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/search-product.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 12
+[28-Sep-2020 02:06:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:06:43 America/Chicago] PHP Warning:  include(backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:06:43 America/Chicago] PHP Warning:  include(backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:06:43 America/Chicago] PHP Warning:  include(): Failed opening 'backend/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:06:43 America/Chicago] PHP Warning:  include(backend/functions.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:06:43 America/Chicago] PHP Warning:  include(backend/functions.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:06:43 America/Chicago] PHP Warning:  include(): Failed opening 'backend/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:06:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/search-product.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 12
+[28-Sep-2020 02:07:10 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:07:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/search-product.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 11
+[28-Sep-2020 02:07:11 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:07:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/search-product.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 11
+[28-Sep-2020 02:07:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:07:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/search-product.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 11
+[28-Sep-2020 02:07:28 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:07:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/search-product.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 11
+[28-Sep-2020 02:07:46 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:07:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/search-product.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 10
+[28-Sep-2020 02:08:09 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:08:10 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:08:54 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 13:08:54 Asia/Dhaka] PHP Fatal error:  Cannot redeclare query() (previously declared in /home1/ensol/app.en-sol.net/backend/functions.php:7) in /home1/ensol/app.en-sol.net/backend/functions.php on line 7
+[28-Sep-2020 02:08:55 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 13:08:55 Asia/Dhaka] PHP Fatal error:  Cannot redeclare query() (previously declared in /home1/ensol/app.en-sol.net/backend/functions.php:7) in /home1/ensol/app.en-sol.net/backend/functions.php on line 7
+[28-Sep-2020 02:09:35 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 13:09:35 Asia/Dhaka] PHP Fatal error:  Cannot redeclare query() (previously declared in /home1/ensol/app.en-sol.net/backend/functions.php:7) in /home1/ensol/app.en-sol.net/backend/functions.php on line 7
+[28-Sep-2020 02:11:58 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:13:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:13:02 America/Chicago] PHP Warning:  include(../../backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:13:02 America/Chicago] PHP Warning:  include(../../backend/config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:13:02 America/Chicago] PHP Warning:  include(): Failed opening '../../backend/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:13:02 America/Chicago] PHP Warning:  include(../../backend/functions.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:13:02 America/Chicago] PHP Warning:  include(../../backend/functions.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:13:02 America/Chicago] PHP Warning:  include(): Failed opening '../../backend/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:13:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/search-product.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 12
+[28-Sep-2020 02:13:20 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 02:13:20 America/Chicago] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:13:20 America/Chicago] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:13:20 America/Chicago] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 1
+[28-Sep-2020 02:13:20 America/Chicago] PHP Warning:  include(../../functions.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:13:20 America/Chicago] PHP Warning:  include(../../functions.php): failed to open stream: No such file or directory in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:13:20 America/Chicago] PHP Warning:  include(): Failed opening '../../functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 2
+[28-Sep-2020 02:13:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ensol/app.en-sol.net/frontend/search-product.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/ensol/app.en-sol.net/frontend/search-product.php on line 12
+[12-Nov-2020 04:08:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[12-Nov-2020 04:08:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home2/faraitfusion/pos.faraitfusion.com/frontend/test-sell-product.php:173
+Stack trace:
+#0 {main}
+  thrown in /home2/faraitfusion/pos.faraitfusion.com/frontend/test-sell-product.php on line 173

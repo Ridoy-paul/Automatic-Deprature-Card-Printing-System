@@ -1,0 +1,10 @@
+<links>
+	<group text="Dynamic PrivateSites">
+		<group text="Search">
+			<link text="Google" href="http://www.google.com/" />
+			<link text="Bing" href="http://www.bing.com/" />
+		</group>
+		<link text="RichTextEditor" href="http://www.richtexteditor.com" />
+		<link text="CuteSoft" href="http://www.cutesoft.net" />
+	</group>
+</links>

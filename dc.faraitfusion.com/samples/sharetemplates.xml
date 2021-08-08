@@ -1,0 +1,18 @@
+<templates>
+	<group text="Dynamic Snippets">
+		<group text="Hello world">
+			<template text="Hello world">
+				<![CDATA[
+				<p>Hello world</p>
+				]]>
+			</template>
+		</group>
+		<template text="MyLiveChat">
+			<![CDATA[
+				<h1>MyLiveChat</h1>
+				<p>A Free Live Chat Software for your website.</p>
+				<p><a href="http://www.mylivechat.com">Go to MyLiveChat</a></p>
+			]]>
+		</template>
+	</group>
+</templates>

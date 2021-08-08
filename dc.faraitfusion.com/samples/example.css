@@ -1,0 +1,12 @@
+body{font:12px arial,sans-serif;}
+a{color:#0000cc;}
+img{border:0;}
+/*----Example CSS Class --*/ 
+.redcolor{
+	color:red;
+}
+.boldgreen
+{
+	color: green; font-weight: bold;
+}
+/*----End of Example CSS Class --*/ 
